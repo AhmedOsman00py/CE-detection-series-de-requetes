@@ -1,6 +1,6 @@
 # M2 Alternance - Détection automatique des séries de requêtes juridiques
 
-Bienvenue dans ce référentiel GitHub dédié à mon projet d'alternance réalisé au sein du Conseil d'État, dans le cadre de mon Master 2 en Data Science : Santé, Assurance, Finance à l'Université de Paris-Saclay. Ce projet vise à automatiser la classification des séries de requêtes juridiques du Conseil d'État, un processus essentiel pour optimiser le traitement des données au sein de cette institution.
+adnannnnn  Bienvenue dans ce référentiel GitHub dédié à mon projet d'alternance réalisé au sein du Conseil d'État, dans le cadre de mon Master 2 en Data Science : Santé, Assurance, Finance à l'Université de Paris-Saclay. Ce projet vise à automatiser la classification des séries de requêtes juridiques du Conseil d'État, un processus essentiel pour optimiser le traitement des données au sein de cette institution.
 
 ## Objectif
 
