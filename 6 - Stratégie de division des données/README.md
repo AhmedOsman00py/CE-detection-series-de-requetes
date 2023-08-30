@@ -1,6 +1,6 @@
 # 6 - Stratégie de division des données
 
-Nous utilisons `StratifiedShuffleSplit`de Scikit-learn.
+Nous utilisons [StratifiedShuffleSplit de Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html).
 
 La stratégie de division des données `StratifiedShuffleSplit` est une technique de validation croisée qui vise à préserver la répartition des classes dans les ensembles d'entraînement et de test. Concrètement, elle garantit que la proportion de chaque classe reste constante dans les deux ensembles, ce qui est particulièrement important lorsque les classes sont déséquilibrées.
 
