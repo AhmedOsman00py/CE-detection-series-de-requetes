@@ -1,7 +1,0 @@
-# 7 - Algorithmes de Machine Learning
-
-Dans cette section, nous explorons plusieurs algorithmes de machine learning afin de trouver la solution optimale pour notre problème de classification des séries de requêtes juridiques. Parmi les algorithmes que nous avons utilisés figurent les Random Forests, le Support Vector Classifier (SVC), le Multi-Layer Perceptron (MLP), ainsi que le k-Nearest Neighbors (KNN) et le Gradient Boosting.
-
-Chaque algorithme a ses propres avantages et caractéristiques, ce qui nous permet d'obtenir des perspectives variées sur la manière de résoudre notre tâche de classification. Nous évaluons la performance de chaque algorithme en utilisant des mesures telles que le F1-score.
-
-Après avoir évalué et fine-tuné les performances de ces algorithmes individuellement, nous allons plus loin en utilisant un Voting Classifier. Ce dernier est une forme d'algorithme d'ensemble learning qui combine les prédictions de plusieurs modèles de machine learning différents pour prendre des décisions finales. Cette approche vise à exploiter les forces et les spécificités de chaque modèle, aboutissant à une décision agrégée plus robuste et précise. Le Voting Classifier peut être considéré comme une démarche complémentaire pour augmenter la fiabilité de nos résultats finaux.
