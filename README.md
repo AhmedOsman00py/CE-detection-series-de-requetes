@@ -13,7 +13,7 @@ L'objectif majeur de ce projet était de développer une solution intelligente p
 Chaque dossier présent dans ce référentiel correspond à une section spécifique de mon rapport d'alternance, où j'ai détaillé les différentes étapes du projet et les résultats obtenus.
 
 Voici un aperçu des sections disponibles :
-1. [OCR]((1%20-%20OCR)) *(Reconnaissance Optique des caractères)*
+1. [OCR](1%20-%20OCR) *(Reconnaissance Optique des caractères)*
 2. [Données](2%20-%20Données) *(Traitement des données)*
 3. [Exploration des données](3%20-%20Exploration%20des%20données)
 4. [Text Processing](4%20-%20Text%20Processing) *(Traitement du texte)*
