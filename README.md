@@ -1,6 +1,8 @@
 # M2 Alternance - Détection automatique des séries de requêtes juridiques
 
-Bienvenue dans ce référentiel GitHub dédié à mon projet d'alternance réalisé au sein du Conseil d'État, dans le cadre de mon Master 2 en Data Science : Santé, Assurance, Finance à l'Université de Paris-Saclay. Ce projet vise à automatiser la classification des séries de requêtes juridiques du Conseil d'État, un processus essentiel pour optimiser le traitement des données au sein de cette institution.
+Ce référentiel GitHub dédié à mon projet d'alternance réalisé au sein du Conseil d'État, dans le cadre de mon Master 2 en Data Science : Santé, Assurance, Finance à l'Université de Paris-Saclay. Ce projet vise à automatiser la classification des séries de requêtes juridiques du Conseil d'État, un processus essentiel pour optimiser le traitement des données au sein de cette institution.
+
+<img src="10 - App/img/Processus.png" width="80%" height="80%">
 
 ## Objectif
 
@@ -8,6 +10,8 @@ L'objectif majeur de ce projet était de développer une solution intelligente p
 
 >Lien vers la visualisation interactive des embeddings t-SNE en 3D :\
 >[https://ahmedosman00py.github.io/CE-detection-series-de-requetes](https://ahmedosman00py.github.io/CE-detection-series-de-requetes)
+
+<img src="10 - App/img/Capture_5.png" width="80%" height="80%">
 
 ## Contenu
 Chaque dossier présent dans ce référentiel correspond à une section spécifique de mon rapport d'alternance, où j'ai détaillé les différentes étapes du projet et les résultats obtenus.
